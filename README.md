@@ -6,6 +6,8 @@ Pain: Large models are often shared by researchers via Google Drive links which 
 
 Pull requests welcome!
 
+Another great source of publicly hosted models is on [The Eye](https://the-eye.eu/public/AI/).
+
 # To upload to IPFS
 
 Via a simple form: https://anarkrypto.github.io/upload-files-to-ipfs-from-browser-panel/public/
