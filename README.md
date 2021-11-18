@@ -1,4 +1,5 @@
-# ipfs_model_hosting
+# IPFS Model Hosting
+
 An effort to host commonly used deep learning models on the decentralized interplanetary filesystem (IPFS). 
 
 Pain: Large models are often shared by researchers via Google Drive links which have transfer limits and are not reliably online. IPFS provides a great decentralized solution to hosting data which can be downloaded via regular web links.
