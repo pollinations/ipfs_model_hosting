@@ -15,6 +15,8 @@ Or with your own node:
 - Note down the content id and cache it to all public gateways using https://natoboram.gitlab.io/public-gateway-cacher/
 - running `ipfs swarm connect /ip4/172.65.0.13/tcp/4009/p2p/QmcfgsJsMtx6qJb74akCw1M24X1zFwgGo11h1cuhwQjtJP` can help in seeding the file faster to the public gateways
 
+Fork this repository, add the model name and hash to the [README.md](README.md) and make a pull request.
+
 # Models
 
 ## AdaBins: Depth Estimation using Adaptive Bins (pretrained models)
