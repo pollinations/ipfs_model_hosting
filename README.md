@@ -27,3 +27,32 @@ https://arxiv.org/abs/2011.14141
 [Qmd2mMnDLWePKmgfS8m6ntAg4nhV5VkUyAydYBp8cWWeB7/AdaBins_kitti.pt](https://ipfs.io/ipfs/Qmd2mMnDLWePKmgfS8m6ntAg4nhV5VkUyAydYBp8cWWeB7/AdaBins_kitti.pt)
 [Qmd2mMnDLWePKmgfS8m6ntAg4nhV5VkUyAydYBp8cWWeB7/AdaBins_nyu.pt](https://ipfs.io/ipfs/Qmd2mMnDLWePKmgfS8m6ntAg4nhV5VkUyAydYBp8cWWeB7/AdaBins_nyu.pt)
 
+## From https://github.com/justinpinkney/awesome-pretrained-stylegan
+
+## WikiArt 1024
+
+![montage](https://user-images.githubusercontent.com/605492/141532578-29671e5a-ee04-4332-93f9-66fb76a5dc24.jpg)
+
+- **Name**: WikiArt-1024
+- **Download URL**: https://ipfs.io/ipfs/QmZkrYwEUnykVQJfJw3opTj1HfdNUCm87amsR3LHp1QnuV/wikiart-1024-stylegan3-t-17.2Mimg.pkl
+- **Author**: Justin Pinkney/LambdaLabs
+- **Author URL**: https://www.justinpinkney.com/ https://lambdalabs.com/
+- **Dataset**: WikiArt
+- **Source URL**: https://lambdalabs.com/blog/stylegan-3/
+- **Resolution**: 1024x1024
+- **Config**: T
+- **Notes**: FID=8.1, trained 17.1 Mimgs, gamma=32, mapping layers=2
+
+## Landscapes 256
+
+![montage](https://user-images.githubusercontent.com/605492/142219592-657e1141-33b4-46ea-b501-8999805d1503.jpg)
+
+- **Name**: LHQ-256
+- **Download URL**: https://ipfs.io/ipfs/QmZkrYwEUnykVQJfJw3opTj1HfdNUCm87amsR3LHp1QnuV/lhq-256-stylegan3-t-25Mimg.pkl
+- **Author**: Justin Pinkney/LambdaLabs
+- **Author URL**: https://www.justinpinkney.com/ https://lambdalabs.com/
+- **Dataset**: [LHQ](https://github.com/universome/alis/blob/master/lhq.md)
+- **Source URL**: https://twitter.com/Buntworthy/status/1460980442409185287?s=20
+- **Resolution**: 256x256
+- **Config**: T
+- **Notes**: FID=2.31, trained 25 Mimgs, gamma=2, mapping layers=2
