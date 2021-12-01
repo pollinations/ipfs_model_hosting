@@ -24,8 +24,8 @@ To contribute a model, fork this repository, add the model name and hash to the 
 ## AdaBins: Depth Estimation using Adaptive Bins (pretrained models)
 https://arxiv.org/abs/2011.14141
 
-[Qmd2mMnDLWePKmgfS8m6ntAg4nhV5VkUyAydYBp8cWWeB7/AdaBins_kitti.pt](https://ipfs.io/ipfs/Qmd2mMnDLWePKmgfS8m6ntAg4nhV5VkUyAydYBp8cWWeB7/AdaBins_kitti.pt)
-[Qmd2mMnDLWePKmgfS8m6ntAg4nhV5VkUyAydYBp8cWWeB7/AdaBins_nyu.pt](https://ipfs.io/ipfs/Qmd2mMnDLWePKmgfS8m6ntAg4nhV5VkUyAydYBp8cWWeB7/AdaBins_nyu.pt)
+[Qmd2mMnDLWePKmgfS8m6ntAg4nhV5VkUyAydYBp8cWWeB7/AdaBins_kitti.pt](https://cloudflare-ipfs.com/ipfs/Qmd2mMnDLWePKmgfS8m6ntAg4nhV5VkUyAydYBp8cWWeB7/AdaBins_kitti.pt)
+[Qmd2mMnDLWePKmgfS8m6ntAg4nhV5VkUyAydYBp8cWWeB7/AdaBins_nyu.pt](https://cloudflare-ipfs.com/Qmd2mMnDLWePKmgfS8m6ntAg4nhV5VkUyAydYBp8cWWeB7/AdaBins_nyu.pt)
 
 ## From https://github.com/justinpinkney/awesome-pretrained-stylegan
 
@@ -34,7 +34,7 @@ https://arxiv.org/abs/2011.14141
 ![montage](https://user-images.githubusercontent.com/605492/141532578-29671e5a-ee04-4332-93f9-66fb76a5dc24.jpg)
 
 - **Name**: WikiArt-1024
-- **Download URL**: https://ipfs.io/ipfs/QmZkrYwEUnykVQJfJw3opTj1HfdNUCm87amsR3LHp1QnuV/wikiart-1024-stylegan3-t-17.2Mimg.pkl
+- **Download URL**: https://cloudflare-ipfs.com/ipfs/QmZkrYwEUnykVQJfJw3opTj1HfdNUCm87amsR3LHp1QnuV/wikiart-1024-stylegan3-t-17.2Mimg.pkl
 - **Author**: Justin Pinkney/LambdaLabs
 - **Author URL**: https://www.justinpinkney.com/ https://lambdalabs.com/
 - **Dataset**: WikiArt
@@ -48,7 +48,7 @@ https://arxiv.org/abs/2011.14141
 ![montage](https://user-images.githubusercontent.com/605492/142219592-657e1141-33b4-46ea-b501-8999805d1503.jpg)
 
 - **Name**: LHQ-256
-- **Download URL**: https://ipfs.io/ipfs/QmZkrYwEUnykVQJfJw3opTj1HfdNUCm87amsR3LHp1QnuV/lhq-256-stylegan3-t-25Mimg.pkl
+- **Download URL**: https://cloudflare-ipfs.com/ipfs/QmZkrYwEUnykVQJfJw3opTj1HfdNUCm87amsR3LHp1QnuV/lhq-256-stylegan3-t-25Mimg.pkl
 - **Author**: Justin Pinkney/LambdaLabs
 - **Author URL**: https://www.justinpinkney.com/ https://lambdalabs.com/
 - **Dataset**: [LHQ](https://github.com/universome/alis/blob/master/lhq.md)
