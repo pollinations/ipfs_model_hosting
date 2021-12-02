@@ -34,7 +34,7 @@ https://arxiv.org/abs/2011.14141
 ![montage](https://user-images.githubusercontent.com/605492/141532578-29671e5a-ee04-4332-93f9-66fb76a5dc24.jpg)
 
 - **Name**: WikiArt-1024
-- **Download URL**: https://cloudflare-ipfs.com/ipfs/QmZkrYwEUnykVQJfJw3opTj1HfdNUCm87amsR3LHp1QnuV/wikiart-1024-stylegan3-t-17.2Mimg.pkl
+- **Download URL**: https://cloudflare-ipfs.com/ipfs/QmSC4psV1MYuN2CJ7rfRfQM1GWq8nVpNd5z1XSYnRBLFzg?filename=wikiart-1024-stylegan3-t-17.2Mimg.pkl
 - **Author**: Justin Pinkney/LambdaLabs
 - **Author URL**: https://www.justinpinkney.com/ https://lambdalabs.com/
 - **Dataset**: WikiArt
@@ -48,7 +48,7 @@ https://arxiv.org/abs/2011.14141
 ![montage](https://user-images.githubusercontent.com/605492/142219592-657e1141-33b4-46ea-b501-8999805d1503.jpg)
 
 - **Name**: LHQ-256
-- **Download URL**: https://cloudflare-ipfs.com/ipfs/QmZkrYwEUnykVQJfJw3opTj1HfdNUCm87amsR3LHp1QnuV/lhq-256-stylegan3-t-25Mimg.pkl
+- **Download URL**: https://cloudflare-ipfs.com/ipfs/QmeQytEU5jjkfKSceezHCQ6Ys7ovSYVJCidbpTfzmUHpXJ?filename=lhq-256-stylegan3-t-25Mimg.pkl
 - **Author**: Justin Pinkney/LambdaLabs
 - **Author URL**: https://www.justinpinkney.com/ https://lambdalabs.com/
 - **Dataset**: [LHQ](https://github.com/universome/alis/blob/master/lhq.md)
